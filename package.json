@@ -1,0 +1,14 @@
+{
+  "name": "cloud-functions",
+  "version": "0.0.1",
+  "description": "Kors Cloud Functions",
+  "main": "functions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "pg": "^7.4.1"
+  }
+}
